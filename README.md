@@ -7,7 +7,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 ## Projects
 
-<img align="left" width="250" height="150" src=""> **[Appstore reviews segregation to extract actionable insights](https://github.com/neel-machine/LDA_Topic_Modelling)**
+<img align="left" width="250" height="150" src="https://github.com/neel-machine/Portfolio/blob/main/Images/wordcloud.png"> **[Appstore reviews segregation to extract actionable insights](https://github.com/neel-machine/LDA_Topic_Modelling)**
 
 For this project I have scraped appstore reviews of DoorDash app to extract valuable insights for app developers and owners. Through topic modelling it identifies reviews into different groups. One of this group contains all the reviews where app users complain about app glitches after app updates. 
 
