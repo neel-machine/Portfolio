@@ -1,4 +1,5 @@
-# Data Science Portfolio - Neelima Guntupalli
+# Data Science Project Portfolio 
+  Neelima Guntupalli
 
 A bird's eye view of some of the projects I have worked upon in my datascience journey. I update this from time to time as I continue working on some cool projects in  my free time.
 
