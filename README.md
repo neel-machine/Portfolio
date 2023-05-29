@@ -11,7 +11,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 ## Projects
 
 
-<img align="left" width="250" height="150" src="https://github.com/neel-machine/Portfolio/blob/main/Images/Fake_Reviews.jpeg">   **[Fake Reviews Detection](https://github.com/neel-machine/Project/blob/main/fake_reviews_using_bert_embeddings_and_lstm%20(1).ipynb)**
+<img align="left" width="250" height="150" src="/Images/Fake_Reviews.jpeg">   **[Fake Reviews Detection](https://github.com/neel-machine/Project/blob/main/fake_reviews_using_bert_embeddings_and_lstm%20(1).ipynb)**
 
 Order the most popular item from a website and it turns out to be a cheap replica , happened to us all hasn't it? This project uses transfer learning techniques to identify fake reviews on a e-commerce website. 
 #
