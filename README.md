@@ -21,9 +21,10 @@ For this project I have scraped appstore reviews of DoorDash app to extract valu
 
 Lets make some money on real estate using machine learning :smiley:	. This project estimates the prices if houses using existing data through which a real estate company can determine whether to invest in a property and flip it for profits.
 
+
 #
 
-<img align="left" width="250" height="150" src="[https://github.com/neel-machine/Portfolio/blob/main/Images/credit_card.png]"> **[Credit Card Churn Analysis]([https://github.com/neel-machine/Churn-analysis-and-prediction/blob/main/telecom_churn_case_study.ipynb])**
+<img align="left" width="250" height="150" src="https://github.com/neel-machine/Portfolio/blob/main/Images/credit_card.png"> **[Credit Card Churn Analysis]([https://github.com/neel-machine/Churn-analysis-and-prediction/blob/main/telecom_churn_case_study.ipynb])**
 
 One of the biggest problem telecom industry tackles, CHURN !! . This project implements PCA for feature reduction , handles class imbalance problem, builds ensemble models and fine-tunes hyperparameters.
 
