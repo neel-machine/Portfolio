@@ -10,7 +10,7 @@ A bird's eye view of some of the projects I have worked upon in my datascience j
 
 <div style="text-align: justify">Order the most popular item from a website and it turns out to be a cheap replica , happened to us all hasn't it? This project uses transfer learning techniques to identify fake reviews on a e-commerce website.</div>
 
-<center><img src="/images/Fake_Reviews.jpeg"/></center>
+<center><img src="/Portfolio/tree/main/images/Fake_Reviews.jpeg"/></center>
 
 ---
 
